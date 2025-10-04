@@ -2,7 +2,6 @@
   <img src="CyberSecurity Background Photo.jpg" alt="Cybersecurity Banner" width="100%" />
 </p>
 <!-- Banner -->
-![Cybersecurity Banner](path-to-your-uploaded-image.png)
 
 ---
 
