@@ -25,7 +25,7 @@ My work spans **infrastructure protection, risk management, and digital safety i
 - **Cloud & Networks:** Cisco Networking, Cloud Security, Wireshark  
 - **Programming & Scripting:** Python, C++, Bash  
 - **Governance & Risk:** ISO 27001, NIST Cybersecurity Framework  
-- **Education & Training:** Cybersecurity Instructor & Facilitator  
+- **Education & Training:** Cybersecurity Instructor & Facilitator 
 
 ---
 
@@ -42,6 +42,16 @@ A web-based remote voting platform developed as part of ND final-year project to
 
 ---
 
+## 📊 Highlights
+- Trained 500+ students in cybersecurity through programmes at PTI, GMA, and NITDA’s 3MTT (hands-on labs, awareness events, and practical defense).
+- Cybersecurity Coordinator & Incident Response Team Member, Nigeria’s 2023 General Elections.  
+- Facilitator, NITDA 3MTT Programme (hands-on cybersecurity training).
+- Mentored and supervised ND2 cybersecurity and networking projects at GMA, fostering practical innovation and real-world problem-solving.
+- Prepared and defended the GMA Networking Lab for NBTE’s resource inspection of the HND Networking & Cloud Computing programme.  
+- Led awareness initiatives that reduced cyber risk exposure by 30–40% among students and staff.
+
+---
+
 ## 📫 Connect With Me
 - **Email:** edeworclifford@gmail.com  
 - **LinkedIn:** [Clifford Edewor](https://www.linkedin.com/in/cliffordedewor)  
@@ -49,4 +59,4 @@ A web-based remote voting platform developed as part of ND final-year project to
 
 ---
 
-⭐ *“Cybersecurity is not just about technology, it’s about people, trust, and building a safer digital future.”*  
+🛡️ *“Cybersecurity is not just about technology, it’s about people, trust, and resilience.”*  
