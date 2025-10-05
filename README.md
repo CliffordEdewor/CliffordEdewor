@@ -53,6 +53,36 @@ A web-based remote voting platform developed as part of ND final-year project to
 
 ---
 
+## 📸 Leadership in Action  
+
+Beyond technical contributions, my leadership has created impact at institutional and national levels.  
+
+<p align="center">  
+  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400"/>  
+  <br/>  
+  <em>Elected as HND Pioneer President, NACOS PTI Chapter, launching student leadership and engagement in computing and cybersecurity.</em>  
+</p>  
+
+<p align="center">  
+  <img src="images/nacos-convention.jpg" alt="Clifford with NACOS members at national convention" width="400"/>  
+  <br/>  
+  <em>Representing PTI at NACOS National Convention, fostering collaboration and innovation among student leaders.</em>  
+</p>  
+
+<p align="center">  
+  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="400"/>  
+  <br/>  
+  <em>Facilitator, NITDA 3MTT Programme, delivering hands-on cybersecurity training to bridge theory and practice.</em>  
+</p>  
+
+<p align="center">  
+  <img src="images/3mtt-laptops.jpg" alt="Clifford with 3MTT trainees who won national laptop awards" width="400"/>  
+  <br/>  
+  <em>Celebrating 3MTT trainees who won national laptop awards, proof of mentorship impact and applied training outcomes.</em>  
+</p>  
+
+---
+
 ## 📫 Connect With Me
 - **Email:** edeworclifford@gmail.com  
 - **LinkedIn:** [Clifford Edewor](https://www.linkedin.com/in/cliffordedewor)  
