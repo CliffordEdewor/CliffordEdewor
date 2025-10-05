@@ -49,6 +49,7 @@ A web-based remote voting platform developed as part of ND final-year project to
 - Mentored and supervised ND2 cybersecurity and networking projects at GMA, fostering practical innovation and real-world problem-solving.
 - Prepared and defended the GMA Networking Lab for NBTE’s resource inspection of the HND Networking & Cloud Computing programme.  
 - Led awareness initiatives that reduced cyber risk exposure by 30–40% among students and staff.
+- **HND Pioneer President, NACOS PTI Chapter**, established HND-level student leadership and advanced engagement in cybersecurity, AI, and cloud computing.
 
 ---
 
