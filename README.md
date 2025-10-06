@@ -37,7 +37,7 @@ As the **HND Pioneer President of NACOS PTI Chapter**, I advanced student leader
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
 Real-time threat detection and mitigation using Snort IDS, showcasing intrusion prevention and alerting techniques.  
 
-### 🔹 [IoT Security Strategies](https://github.com/CliffordEdewor/IoT-Security-Strategies)
+### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
 Mitigating cybersecurity threats in IoT devices through device-level, network-level, and data security approaches.  
 
 ### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
