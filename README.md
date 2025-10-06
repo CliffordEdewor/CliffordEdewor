@@ -86,15 +86,16 @@ Beyond technical contributions, my leadership has created impact at institutiona
 
 ---
 
-## 🎓 Certifications  
+## 🎓 Specialized Training & Certificates  
 
-To strengthen my technical expertise and leadership capacity, I have earned certifications from globally recognized bodies:  
+To strengthen my technical expertise and leadership capacity, I have completed specialized training from globally recognized institutions:  
 
-- **ISC² Certified in Cybersecurity (CC)** – Course Completion  
+- **ISC² Certified in Cybersecurity (CC)**, Course Completion  
 - **EC-Council Applied Live Forensics**  
-- **ISACA Cybersecurity Leadership & Management**  
-- **ISACA Cybersecurity Senior Management & Information Security Governance**  
-- **Cisco Network Defense**  
+- **ISACA Cybersecurity Leadership & Management**, Certificate of Completion  
+- **ISACA Cybersecurity Senior Management & Information Security Governance**, Certificate of Completion  
+- **CS50 Introduction to Cybersecurity, HarvardX**  
+- **Advanced Cybersecurity Program, Stanford University School of Engineering**  
 
 ---
 
