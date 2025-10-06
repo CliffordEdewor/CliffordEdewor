@@ -43,7 +43,7 @@ A web-based remote voting platform developed as part of ND final-year project to
 ---
 
 ## 📊 Highlights
-- Trained 500+ students in cybersecurity through programmes at PTI, GMA, and NITDA’s 3MTT (hands-on labs, awareness events, and practical defense).
+- Trained 500+ students in cybersecurity across PTI, GMA, and NITDA’s 3MTT programmes (hands-on labs, awareness events, and practical defense).
 - Cybersecurity Coordinator & Incident Response Team Member, Nigeria’s 2023 General Elections.
 - Cybersecurity Instructor & Facilitator, NITDA 3MTT Programme (hands-on cybersecurity training).
 - Mentored and supervised ND2 cybersecurity and networking projects at GMA, fostering practical innovation and real-world problem-solving.
@@ -91,7 +91,7 @@ To strengthen my technical expertise and leadership capacity, I have earned cert
 - **EC-Council Applied Live Forensics**  
 - **ISACA Cybersecurity Leadership & Management**  
 - **ISACA Cybersecurity Senior Management & Information Security Governance**  
-- **Network Defense Cisco**  
+- **Cisco Network Defense**  
 
 ---
 
