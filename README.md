@@ -83,6 +83,18 @@ Beyond technical contributions, my leadership has created impact at institutiona
 
 ---
 
+## 🎓 Certifications  
+
+To strengthen my technical expertise and leadership capacity, I have earned certifications from globally recognized bodies:  
+
+- **ISC² Certified in Cybersecurity (CC)** – Course Completion  
+- **EC-Council Applied Live Forensics**  
+- **ISACA Cybersecurity Leadership & Management**  
+- **ISACA Cybersecurity Senior Management & Information Security Governance**  
+- **Network Defense Cisco**  
+
+---
+
 ## 📫 Connect With Me
 - **Email:** edeworclifford@gmail.com  
 - **LinkedIn:** [Clifford Edewor](https://www.linkedin.com/in/cliffordedewor)  
