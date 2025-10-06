@@ -15,8 +15,11 @@
 ---
 
 ## 👨‍💻 About Me
-I am **Clifford Edewor**, a Cybersecurity Analyst passionate about securing systems and empowering people through **cybersecurity education, research, and hands-on capacity building**.  
-My work spans **infrastructure protection, risk management, and digital safety initiatives** that reduce cyber risks and build resilience across communities and institutions.  
+I am **Clifford Edewor**, a Cybersecurity Analyst and Educator dedicated to **securing systems and empowering people** through hands-on training, research, and leadership.
+
+I have **trained and mentored 500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for Nigeria’s 3MTT Programme**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, with measurable outcomes such as **reducing cyber risk exposure by 30–40% among learners and professionals**.
+
+As the **HND Pioneer President of NACOS PTI Chapter**, I advanced student leadership in cybersecurity, AI, and cloud computing, fostering innovation and professional growth. I currently serve as **Cybersecurity Instructor and Networking Lab Technologist at Global Maritime Academy, Nigeria**, where I continue to build talent pipelines and strengthen institutional cybersecurity capacity.
 
 ---
 
@@ -43,7 +46,7 @@ A web-based remote voting platform developed as part of ND final-year project to
 ---
 
 ## 📊 Highlights
-- Trained 500+ students in cybersecurity across PTI, GMA, and NITDA’s 3MTT programmes (hands-on labs, awareness events, and practical defense).
+- Trained 500+ students in cybersecurity across PTI, GMA, and NITDA’s 3MTT programmes (hands-on labs, awareness initiatives, and practical defense).
 - Cybersecurity Coordinator & Incident Response Team Member, Nigeria’s 2023 General Elections.
 - Cybersecurity Instructor & Facilitator, NITDA 3MTT Programme (hands-on cybersecurity training).
 - Mentored and supervised ND2 cybersecurity and networking projects at GMA, fostering practical innovation and real-world problem-solving.
