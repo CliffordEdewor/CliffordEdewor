@@ -49,17 +49,11 @@ A web-based remote voting platform developed as part of ND final-year project to
 
 ## 📊 Highlights
 - Trained and mentored over 500 learners in cybersecurity across PTI, GMA, and NITDA’s 3MTT programmes through hands-on labs, awareness initiatives, and practical defense exercises.
-
 - Served as Cybersecurity Coordinator and Incident Response Team Member during Nigeria’s 2023 General Elections.
-
 - Served as Cybersecurity Instructor and Facilitator for NITDA’s 3MTT Programme, delivering hands-on practicals that complemented the Google Cybersecurity Certificate. 20% of trainees earned additional recognition, including global certifications, laptop awards, and LinkedIn scholarships.
-
 - Mentored and supervised ND2 cybersecurity and networking projects at GMA, fostering innovation and real-world problem-solving.
-
 - Prepared and defended the GMA Networking Lab during NBTE’s resource inspection for the proposed HND Networking & Cloud Computing programme, leading to its official approval.
-
 - Led cybersecurity awareness initiatives that reduced risk exposure by 30–40% among students and staff.
-
 - Served as **HND Pioneer President, NACOS PTI Chapter**, establishing HND-level student leadership and advancing engagement in cybersecurity, AI, and cloud computing.
 
 ---
