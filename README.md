@@ -1,6 +1,6 @@
 <!-- Cybersecurity Portfolio README -->
 <p align="center">
-  <img src="images/CyberSecurity Background Photo.jpg" alt="Cybersecurity Banner" width="100%">
+  <img src="images/CyberSecurity%20Background%20Photo.jpg" alt="Cybersecurity Banner" width="100%">
 </p>
 
 <h1 align="center">🌍 Inspiring a Safe and Secure Digital World</h1>
@@ -13,7 +13,7 @@
 I am **Clifford Edewor**, a **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.
 
 I have trained and mentored **500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for Nigeria’s 3MTT Programme (NITDA)**.  
-My work spans infrastructure protection, risk management, and digital safety initiatives — achieving measurable outcomes such as **reducing cyber risk exposure by 30–40%** among learners and professionals.
+My work covers infrastructure protection, risk management, and digital safety initiatives, achieving measurable outcomes such as **reducing cyber risk exposure by 30–40%** among learners and professionals.
 
 As the **HND Pioneer President of NACOS PTI Chapter**, I advanced student leadership in cybersecurity, AI, and cloud computing, fostering innovation and professional growth.
 
@@ -78,7 +78,7 @@ Web-based remote voting platform developed as an ND final-year project to reduce
 
 ### 📸 Leadership in Action
 
-**My leadership journey spans institutional, national, and professional levels — shaping talent, innovation, and digital resilience.**
+**My leadership journey spans institutional, national, and professional levels, shaping talent, innovation, and digital resilience.**
 
 #### 🧑‍💼 Student & Institutional Leadership
 <p align="center">
@@ -123,7 +123,7 @@ Web-based remote voting platform developed as an ND final-year project to reduce
 
 ### 💬 Quote
 
-> 🛡️ *“Cybersecurity is not just about technology — it’s about people, trust, and resilience.”*
+> 🛡️ *“Cybersecurity is not just about technology, it’s about people, trust, and resilience.”*
 
 ---
 
