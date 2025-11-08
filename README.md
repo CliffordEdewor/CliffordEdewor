@@ -84,13 +84,14 @@ A web-based remote voting platform developed as an ND final-year project to redu
 <p align="center">
   <img src="images/nacos-election.jpg" alt="Clifford Edewor NACOS HND Pioneer President" width="70%">
 </p>
+
 **Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.**
 
 #### 🧠 Cybersecurity Education & National Impact
 <p align="center">
   <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="70%">
 </p>
-*Facilitated cybersecurity training under NITDA’s 3MTT Programme. Mentored trainees who earned national recognition, certifications, and laptop awards.*
+Facilitated cybersecurity training under NITDA’s 3MTT Programme. Mentored trainees who earned national recognition, certifications, and laptop awards.
 
 #### 🏫 Institutional Development & Mentorship
 <p align="center">
