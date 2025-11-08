@@ -69,14 +69,12 @@ A web-based remote voting platform developed as part of ND final-year project to
 
 My leadership journey spans **institutional, national, and professional** levels, shaping talent, innovation, and digital resilience.  
 
-<em>### 🧑‍💼 Student & Institutional Leadership</em>
-</p>
+### 🧑‍💼 Student & Institutional Leadership  
 <p align="center">
   <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400%" />
   <br/>
   <em>Served as HND Pioneer President, NACOS PTI Chapter, establishing student leadership in computing and cybersecurity.</em>  
   </p>
-  
   <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="400%" />
 </p>  
 
@@ -94,36 +92,6 @@ My leadership journey spans **institutional, national, and professional** levels
   <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="45%" />
 </p>  
 <em>Contributed to practical instruction and mentorship at Global Maritime Academy, guiding learners in cybersecurity, networking, and safety-critical digital systems.</em>
-
-
-
-
-
-Beyond technical contributions, my leadership has created impact at institutional and national levels.  
-
-<p align="center">  
-  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400"/>  
-  <br/>  
-  <em>Elected as HND Pioneer President, NACOS PTI Chapter, launching student leadership and engagement in computing and cybersecurity.</em>  
-</p>  
-
-<p align="center">  
-  <img src="images/nacos-convention.jpg" alt="Clifford with NACOS members at national convention" width="400"/>  
-  <br/>  
-  <em>Representing PTI at NACOS National Convention, fostering collaboration and innovation among student leaders.</em>  
-</p>  
-
-<p align="center">  
-  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="400"/>  
-  <br/>  
-  <em>Facilitator, NITDA 3MTT Programme, delivering hands-on cybersecurity training to bridge theory and practice.</em>  
-</p>  
-
-<p align="center">  
-  <img src="images/3mtt-laptops.jpg" alt="Clifford with 3MTT trainees who won national laptop awards" width="400"/>  
-  <br/>  
-  <em>Celebrating 3MTT trainees who won national laptop awards, proof of mentorship impact and applied training outcomes.</em>  
-</p>  
 
 ---
 
