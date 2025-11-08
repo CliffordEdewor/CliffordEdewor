@@ -71,10 +71,14 @@ My leadership journey spans **institutional, national, and professional** levels
 
 ### 🧑‍💼 Student & Institutional Leadership  
 <p align="center">
-  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="40%" />
-  <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="45%" />
+  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400%" />
+  <br/>
+  <em>Served as HND Pioneer President, NACOS PTI Chapter, establishing student leadership in computing and cybersecurity.</em>  
+  </p>
+  
+  <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="400%" />
 </p>  
-<em>Served as HND Pioneer President, NACOS PTI Chapter, establishing student leadership in computing and cybersecurity and representing PTI at the national convention to foster collaboration and innovation.</em>  
+
 
 ### 🧠 Cybersecurity Education & National Impact  
 <p align="center">
