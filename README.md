@@ -78,7 +78,7 @@ My leadership journey spans **institutional, national, and professional** levels
 
 ### 🧠 Cybersecurity Education & National Impact  
 <p align="center">
-  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="46%" />
+  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="46.5%" />
   <img src="images/3mtt-laptops.jpg" alt="3MTT trainees who won national laptop awards" width="45%" />
 </p>  
 <em>Facilitated cybersecurity training under NITDA’s 3MTT Programme, bridging theory and practice. Mentored trainees who earned national recognition through certifications and laptop awards.</em>  
