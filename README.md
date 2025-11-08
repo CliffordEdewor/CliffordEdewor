@@ -69,7 +69,8 @@ A web-based remote voting platform developed as part of ND final-year project to
 
 My leadership journey spans **institutional, national, and professional** levels, shaping talent, innovation, and digital resilience.  
 
-### 🧑‍💼 Student & Institutional Leadership  
+<em>### 🧑‍💼 Student & Institutional Leadership</em>
+</p>
 <p align="center">
   <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400%" />
   <br/>
