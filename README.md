@@ -52,14 +52,14 @@ I currently serve as an **IT Security Operations Officer** through **Sinic Engin
 
 ### 📂 Featured Projects
 
-🔹 **Snort IDS Threat Detection**  
-Real-time threat detection and mitigation using Snort IDS, showcasing intrusion prevention and alerting techniques.
+### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
+Real-time threat detection and mitigation using Snort IDS, showcasing intrusion prevention and alerting techniques.  
 
-🔹 **IoT Security: Mitigating Cybersecurity Threats in Connected Devices**  
-Implementing device-level, network-level, and data security strategies to protect IoT ecosystems.
+### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
+Mitigating cybersecurity threats in IoT devices through device-level, network-level, and data security approaches.  
 
-🔹 **Online Voting System**  
-Web-based remote voting platform developed as an ND final-year project to reduce electoral malpractice and enhance trust in online elections.
+### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
+A web-based remote voting platform developed as part of ND final-year project to reduce electoral malpractice. 
 
 ---
 
