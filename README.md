@@ -91,7 +91,7 @@ A web-based remote voting platform developed as an ND final-year project to redu
 
 ### 🧠 Cybersecurity Education & National Impact  
 <p align="center">
-  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="49%" />
+  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="49.5%" />
   <img src="images/3mtt-laptops.jpg" alt="3MTT trainees who won national laptop awards" width="48%" />
 <br/> 
 <em>Facilitated cybersecurity training under NITDA’s 3MTT Programme. Mentored trainees who earned national recognition, certifications, and laptop awards.</em>  
