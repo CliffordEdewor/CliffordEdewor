@@ -91,16 +91,16 @@ A web-based remote voting platform developed as an ND final-year project to redu
 
 ### 🧠 Cybersecurity Education & National Impact  
 <p align="center">
-  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="46.5%" />
-  <img src="images/3mtt-laptops.jpg" alt="3MTT trainees who won national laptop awards" width="45%" />
+  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="48%" />
+  <img src="images/3mtt-laptops.jpg" alt="3MTT trainees who won national laptop awards" width="48%" />
 <br/> 
 <em>Facilitated cybersecurity training under NITDA’s 3MTT Programme. Mentored trainees who earned national recognition, certifications, and laptop awards.</em>  
 </p>
 
 ### 🏫 Institutional Development & Mentorship  
 <p align="center">
-  <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="45%" />
-  <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="45%" />
+  <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="48%" />
+  <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="48%" />
 <br/>  
 <em>Contributed to practical instruction and mentorship at GMA, guiding learners in cybersecurity, networking, and safety-critical digital systems.</em>
 </p>
