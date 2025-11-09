@@ -82,37 +82,12 @@ A web-based remote voting platform developed as an ND final-year project to redu
 
 #### 🧑‍💼 Student & Institutional Leadership
 <p align="center">
-  <img src="images/nacos-election.jpg" alt="Clifford Edewor NACOS HND Pioneer President" width="70%">
-</p>
-Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.
-
-#### 🧠 Cybersecurity Education & National Impact
-<p align="center">
-  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="70%">
-</p>
-Facilitated cybersecurity training under NITDA’s 3MTT Programme. Mentored trainees who earned national recognition, certifications, and laptop awards.
-
-#### 🏫 Institutional Development & Mentorship
-<p align="center">
-  <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="70%">
-</p>
-Contributed to practical instruction and mentorship at Global Maritime Academy, guiding learners in cybersecurity, networking, and safety-critical systems.
-
----
-
-## 📸 Leadership in Action 
-
-My leadership journey spans **institutional, national, and professional** levels, shaping talent, innovation, and digital resilience.  
-
-### 🧑‍💼 Student & Institutional Leadership  
-<p align="center">
   <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400%" />
-  <br/>
-  <em>Served as HND Pioneer President, NACOS PTI Chapter, establishing student leadership in computing and cybersecurity.</em>  
-  </p>
+<br/>
+<em>Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.</em>
+</p>
   <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="400%" />
 </p>  
-
 
 ### 🧠 Cybersecurity Education & National Impact  
 <p align="center">
@@ -127,6 +102,20 @@ My leadership journey spans **institutional, national, and professional** levels
   <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="45%" />
 </p>  
 <em>Contributed to practical instruction and mentorship at Global Maritime Academy, guiding learners in cybersecurity, networking, and safety-critical digital systems.</em>
+
+
+
+#### 🧠 Cybersecurity Education & National Impact
+<p align="center">
+  <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="70%">
+</p>
+Facilitated cybersecurity training under NITDA’s 3MTT Programme. Mentored trainees who earned national recognition, certifications, and laptop awards.
+
+#### 🏫 Institutional Development & Mentorship
+<p align="center">
+  <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="70%">
+</p>
+Contributed to practical instruction and mentorship at Global Maritime Academy, guiding learners in cybersecurity, networking, and safety-critical systems.
 
 ---
 
