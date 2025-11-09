@@ -122,7 +122,7 @@ A web-based remote voting platform developed as an ND final-year project to redu
 
 ### 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford%20Edewor-blue?logo=linkedin)](https://linkedin.com/in/CliffordEdewor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford%20Edewor-blue?logo=linkedin)](https://www.linkedin.com/in/clifford-edewor)
 [![Email](https://img.shields.io/badge/Email-edeworclifford%40gmail.com-red?logo=gmail)](mailto:edeworclifford@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@CliffordEdewor-black?logo=twitter)](https://x.com/CliffordEdewor)
 
