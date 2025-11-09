@@ -101,7 +101,7 @@ A web-based remote voting platform developed as an ND final-year project to redu
 <p align="center">
   <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="45%" />
   <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="45%" />
-</p>  
+<br/>  
 <em>Contributed to practical instruction and mentorship at GMA, guiding learners in cybersecurity, networking, and safety-critical digital systems.</em>
 </p>
 
