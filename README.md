@@ -94,7 +94,9 @@ A web-based remote voting platform developed as an ND final-year project to redu
   <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="46.5%" />
   <img src="images/3mtt-laptops.jpg" alt="3MTT trainees who won national laptop awards" width="45%" />
 </p>  
-<em>Facilitated cybersecurity training under NITDA’s 3MTT Programme, bridging theory and practice. Mentored trainees who earned national recognition through certifications and laptop awards.</em>  
+<em>Facilitated cybersecurity training under NITDA’s 3MTT Programme, bridging theory and practice.</em>
+  <em>Mentored trainees who earned national recognition through certifications and laptop awards.</em>  
+</p>
 
 ### 🏫 Institutional Development & Mentorship  
 <p align="center">
@@ -102,6 +104,7 @@ A web-based remote voting platform developed as an ND final-year project to redu
   <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="45%" />
 </p>  
 <em>Contributed to practical instruction and mentorship at Global Maritime Academy, guiding learners in cybersecurity, networking, and safety-critical digital systems.</em>
+</p>
 
 
 
