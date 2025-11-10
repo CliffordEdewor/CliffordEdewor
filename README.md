@@ -11,14 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/cliffordedewor" target="_blank">
+  <a href="https://www.linkedin.com/in/clifford-edewor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:cliffordedewor@gmail.com">
+  <a href="mailto:edeworclifford@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/CliffordEdewor" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://x.com/CliffordEdewor" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </p>
 
