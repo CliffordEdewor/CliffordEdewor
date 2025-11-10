@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:cliffordedewor@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/CliffordEdewor" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
@@ -144,7 +144,7 @@ A web-based remote voting platform developed as an ND final-year project to redu
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford%20Edewor-blue?logo=linkedin)](https://www.linkedin.com/in/clifford-edewor)
-[![Email](https://img.shields.io/badge/Email-edeworclifford%40gmail.com-red?logo=gmail)](mailto:edeworclifford@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-edeworclifford%40gmail.com-red?logo=gmail)](mailto:edeworclifford@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@CliffordEdewor-black?logo=twitter)](https://x.com/CliffordEdewor)
 
 ---
