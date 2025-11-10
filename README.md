@@ -31,7 +31,7 @@
 
 ### 🧭 About Me
 
-I am **Clifford Edewor**, a **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.
+A **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.
 
 I have trained and mentored **500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for Nigeria’s 3MTT Programme (NITDA)**.  
 My work covers infrastructure protection, risk management, and digital safety initiatives, achieving measurable outcomes such as **reducing cyber risk exposure by 30–40%** among learners and professionals.
