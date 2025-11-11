@@ -93,8 +93,8 @@ A web-based remote voting platform developed as an ND final-year project to redu
 - 🎓 Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, with **20% of trainees** earning global certifications, awards, and scholarships.  
 
 - 🧠 Supervised **ND2 cybersecurity and networking projects** at **GMA**, fostering innovation, teamwork, and real-world problem-solving.  
-
-- 🚀 Led **cybersecurity awareness campaigns** that reduced risk exposure among students and staff by **30–40%**.  
+  
+- 🚀 As a **Cybersecurity Instructor & Networking Lab Technologist**, led **cybersecurity awareness campaigns** that reduced **risk exposure among students and staff by 30–40%**.
 
 - 🏫 Played a **pivotal role** in securing **NBTE’s approval** for **GMA’s HND Networking & Cloud Computing** programme through the rigorous preparation and defense of the Networking Laboratory.  
 
