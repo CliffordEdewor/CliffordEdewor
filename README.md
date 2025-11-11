@@ -29,16 +29,15 @@
 
 ---
 
-### 🧭 About Me
+### 🧭 About Me  
 
-A **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.
+A **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.  
 
-I have trained and mentored **500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for Nigeria’s 3MTT Programme (NITDA)**.  
-My work covers infrastructure protection, risk management, and digital safety initiatives, achieving measurable outcomes such as **reducing cyber risk exposure by 30–40%** among learners and professionals.
+I have trained and mentored **500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for Nigeria’s 3MTT Programme (NITDA)**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, achieving measurable outcomes such as a **30–40% reduction in cyber risk exposure** among learners and professionals.  
 
-As the **HND Pioneer President of NACOS PTI Chapter**, I advanced student leadership in cybersecurity, AI, and cloud computing, fostering innovation and professional growth.
+As the **HND Pioneer President of NACOS PTI Chapter**, I advanced student leadership in **cybersecurity, AI, and cloud computing**, fostering innovation and professional growth.  
 
-I currently serve as an **IT Security Operations Officer** through **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (a subsidiary of Thor Explorations Ltd)**, overseeing control room systems, networked security infrastructure, and secure operations within a safety-critical mining environment.
+I currently serve as an **IT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (a subsidiary of Thor Explorations Ltd)**, where I oversee control room systems, networked security infrastructure, and ensure secure, efficient operations within a safety-critical mining environment.  
 
 ---
 
