@@ -86,14 +86,19 @@ A web-based remote voting platform developed as an ND final-year project to redu
 
 ### 📊 Highlights & Achievements
 
-- 🧑‍🏫 Trained and mentored **500+ learners** in cybersecurity across **PTI**, **GMA**, and **NITDA’s 3MTT** programmes through hands-on labs, awareness initiatives, and defense exercises.  
-- 🛡️ Served as **Cybersecurity Coordinator & Incident Response Team Member** during Nigeria’s **2023 General Elections**, contributing to secure electoral processes.  
-- 🎓 Facilitated **cybersecurity training** under **NITDA’s 3MTT Programme**, complementing the **Google Cybersecurity Certificate**.  
-  → *20% of trainees earned global certifications, laptop awards, or LinkedIn scholarships.*  
-- 🧠 Mentored and supervised **ND2 cybersecurity and networking projects** at GMA, fostering innovation and real-world problem-solving.  
-- 🏫 Prepared and defended the **GMA Networking Lab** during **NBTE’s resource inspection**, leading to the official approval of the **HND Networking & Cloud Computing** programme.  
-- 🚀 Led cybersecurity awareness initiatives that **reduced risk exposure by 30–40%** among students and staff.  
-- 🧑‍💼 Served as **HND Pioneer President, NACOS PTI Chapter**, establishing HND-level student leadership and advancing engagement in cybersecurity, AI, and cloud computing.
+- 🧑‍🏫 Trained and mentored **500+ learners** across **PTI**, **GMA**, and **NITDA’s 3MTT** programmes through immersive labs, awareness campaigns, and practical defense exercises.  
+
+- 🛡️ Contributed to **Nigeria’s 2023 General Elections** as **Cybersecurity Coordinator & Incident Response Team Member**, strengthening electoral security and national resilience.  
+
+- 🎓 Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, with **20% of trainees** earning global certifications, awards, and scholarships.  
+
+- 🧠 Supervised **ND2 cybersecurity and networking projects** at **GMA**, fostering innovation, teamwork, and real-world problem-solving.  
+
+- 🚀 Led **cybersecurity awareness campaigns** that reduced risk exposure among students and staff by **30–40%**.  
+
+- 🏫 Played a **pivotal role** in securing **NBTE’s approval** for **GMA’s HND Networking & Cloud Computing** programme through the rigorous preparation and defense of the Networking Laboratory.  
+
+- 🧑‍💼 Pioneered **student leadership** as **HND Pioneer President**, driving engagement in **cybersecurity, AI, and cloud computing**.  
 
 ---
 
