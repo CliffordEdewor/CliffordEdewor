@@ -37,7 +37,7 @@ I have trained and mentored **500+ learners** across institutions and national p
 
 As the **HND Pioneer President of NACOS PTI Chapter**, I advanced student leadership in **cybersecurity, AI, and cloud computing**, fostering innovation and professional growth.  
 
-I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (a subsidiary of Thor Explorations Ltd)**, where I oversee control room systems, networked security infrastructure, and ensure secure, efficient operations within a safety-critical mining environment.  
+I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (a subsidiary of Thor Explorations Ltd)**. I oversee control room systems, secure networked security infrastructure, and enforce cybersecurity controls to maintain safe, efficient, and compliant operations within a safety-critical mining environment.  
 
 ---
 
