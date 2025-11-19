@@ -35,9 +35,7 @@ A **Cybersecurity Analyst and Educator** dedicated to securing systems and empow
 
 I have trained and mentored **500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for NITDA’s 3MTT Programme**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, achieving measurable outcomes such as a **30–40% reduction in cyber risk exposure** among learners and professionals.  
 
-As the **HND Pioneer President of NACOS PTI Chapter**, I strengthened student leadership in **cybersecurity, AI, and cloud computing**, fostering innovation and professional growth.  
-
-I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (a subsidiary of Thor Explorations Ltd)**. I oversee control room systems, secure networked security infrastructure, and enforce cybersecurity controls to maintain safe, efficient, and compliant operations within a safety-critical mining environment.  
+As the **HND Pioneer President of NACOS PTI Chapter**, I strengthened student leadership in **cybersecurity, AI, and cloud computing**, fostering innovation and professional growth.   
 
 I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (SROL), a subsidiary of Thor Explorations Ltd**. I oversee control room systems, secure networked security infrastructure, and enforce cybersecurity controls to maintain safe, efficient, and compliant operations in **SROL’s safety-critical mining environment**.
 
