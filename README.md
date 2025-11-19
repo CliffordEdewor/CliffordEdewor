@@ -39,6 +39,8 @@ As the **HND Pioneer President of NACOS PTI Chapter**, I strengthened student le
 
 I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (a subsidiary of Thor Explorations Ltd)**. I oversee control room systems, secure networked security infrastructure, and enforce cybersecurity controls to maintain safe, efficient, and compliant operations within a safety-critical mining environment.  
 
+I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (SROL), a subsidiary of Thor Explorations Ltd**. I oversee control room systems, secure networked security infrastructure, and enforce cybersecurity controls to maintain safe, efficient, and compliant operations in **SROL’s safety-critical mining environment**.
+
 ---
 
 ### 🛠️ Skills & Tools
