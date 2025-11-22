@@ -81,7 +81,7 @@ Mitigating cybersecurity threats in IoT devices, implementing device-level, netw
 ### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
 A web-based remote voting platform developed as an ND final-year project to reduce electoral malpractice and enhance trust in online elections.
 
-### 🔹 [Network Traffic Security Analysis](https://github.com/CliffordEdewor/network-traffic-security-analysis)
+### 🔹 [Network Traffic Security Analysis](https://github.com/CliffordEdewor/Network-traffic-security-analysis)
 A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and how switches intelligently forward frames to improve security and prevent sniffing.
 
 ---
