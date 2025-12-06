@@ -148,6 +148,11 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ---
 
+### 🏛️ Professional Memberships
+- Professional Member, Cyber Security Experts Association of Nigeria (CSEAN)
+
+---
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Clifford%20Edewor-blue?logo=linkedin)](https://www.linkedin.com/in/clifford-edewor)
