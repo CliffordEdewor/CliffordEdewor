@@ -139,10 +139,10 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 | Certification | Issuer |
 |----------------|--------|
-| **ISC² Certified in Cybersecurity (CC)** – Course Completion | ISC² |
+| **ISC² Certified in Cybersecurity (CC)**  | ISC² |
 | **Applied Live Forensics** | EC-Council |
-| **Cybersecurity Leadership & Management** – Certificate of Completion | ISACA |
-| **Senior Management & Information Security Governance** – Certificate of Completion | ISACA |
+| **Cybersecurity Leadership & Management**  | ISACA |
+| **Senior Management & Information Security Governance**  | ISACA |
 | **CS50 Introduction to Cybersecurity** | HarvardX |
 | **Advanced Cybersecurity Program** | Stanford University, School of Engineering |
 
