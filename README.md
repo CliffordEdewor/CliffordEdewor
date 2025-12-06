@@ -150,8 +150,6 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 🏛️ Professional Memberships
 - Professional Member, Cyber Security Experts Association of Nigeria (CSEAN)
-  
-- **Professional Member, Cyber Security Experts Association of Nigeria (CSEAN)**
 - Student Member, Nigeria Computer Society (NCS)
 
 ---
