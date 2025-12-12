@@ -96,7 +96,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - 🧠 Supervised **ND2 cybersecurity and networking projects** at **GMA**, fostering innovation, teamwork, and real-world problem-solving.  
   
-- 🚀 As a **Cybersecurity Instructor & Networking Lab Technologist**, led **cybersecurity awareness campaigns** that reduced **risk exposure among students and staff by 30–40%**.
+- 🚀 As a **Cybersecurity Instructor & Networking Lab Technologist**, led **cybersecurity awareness campaigns** that reduced **risk exposure among students and staff by 40%**.
 
 - 🏫 Played a **pivotal role** in securing **NBTE’s approval** for **GMA’s HND Networking & Cloud Computing** programme through the rigorous preparation and defense of the Networking Laboratory.  
 
