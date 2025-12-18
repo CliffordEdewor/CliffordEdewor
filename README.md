@@ -100,7 +100,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - 🏫 Played a **pivotal role** in securing **NBTE’s approval** for **GMA’s HND Networking & Cloud Computing** programme through the rigorous preparation and defense of the Networking Laboratory.  
 
-- 🧑‍💼 Pioneered **student leadership** as **HND Pioneer President**, driving engagement in **cybersecurity, AI, and cloud computing**.  
+- 🧑‍💼 Pioneered **student leadership** as **HND Pioneer President**, driving engagement in **cybersecurity, AI, and cloud computing**; awarded **Excellence for Outstanding Performance as NACOS President (2024 session)**.
 
 ---
 
