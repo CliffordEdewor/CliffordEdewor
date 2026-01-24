@@ -7,7 +7,7 @@
 <h1 align="center">Clifford Edewor | Cybersecurity Portfolio</h1>
 
 <p align="center">
-  <em>Cybersecurity Analyst & Educator focused on Cloud Security, Network Defense, and Digital Resilience.</em>
+  <em>Cybersecurity Specialist & Educator focused on Cloud Security, Network Defense, and Digital Resilience.</em>
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 A **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.  
 
-I have trained and mentored **500+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for NITDA’s 3MTT Programme**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, achieving measurable outcomes such as a **40% reduction in cyber risk exposure** among learners and professionals.  
+I have trained and mentored **400+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for NITDA’s 3MTT Programme**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, achieving measurable outcomes such as a **40% reduction in cyber risk exposure** among learners and professionals.  
 
 As the **HND Pioneer President of NACOS PTI Chapter**, I strengthened student leadership in **cybersecurity, AI, and cloud computing**, fostering innovation and professional growth.   
 
