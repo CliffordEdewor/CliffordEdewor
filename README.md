@@ -88,7 +88,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- 🧑‍🏫 Trained and mentored **500+ learners** across **PTI**, **GMA**, and **NITDA’s 3MTT** programmes through immersive labs, awareness campaigns, and practical defense exercises.  
+- 🧑‍🏫 Trained and mentored **400+ learners** across **PTI**, **GMA**, and **NITDA’s 3MTT** programmes through immersive labs, awareness campaigns, and practical defense exercises.  
 
 - 🛡️ Contributed to **Nigeria’s 2023 General Elections** as **Cybersecurity Coordinator & Incident Response Team Member**, strengthening electoral security and national resilience.  
 
