@@ -31,7 +31,7 @@
 
 ### 🧭 About Me  
 
-A **Cybersecurity Analyst and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.  
+A **Cybersecurity Specialist and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.  
 
 I have trained and mentored **400+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for NITDA’s 3MTT Programme**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, achieving measurable outcomes such as a **40% reduction in cyber risk exposure** among learners and professionals.  
 
