@@ -114,7 +114,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 <br/>
 <em>Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.</em>
 </p>
-  <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="80%" />
+  <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="100%" />
 </p>  
 
 ### 🧠 Cybersecurity Education & National Impact  
