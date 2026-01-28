@@ -57,7 +57,6 @@ Previously, as **Pioneer President of the NACOS PTI Chapter**, I strengthened st
 
 #### 💻 Programming & Scripting
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black)
 
 #### 🧱 Governance, Risk & Compliance
@@ -111,7 +110,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 #### 🧑‍💼 Student & Institutional Leadership
 <p align="center">
-  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="400%" />
+  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="80%" />
 <br/>
 <em>Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.</em>
 </p>
@@ -170,5 +169,5 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 ---
 
 <p align="center">
-  <i>© 2025 Clifford Edewor – Inspiring a Safe and Secure Digital World</i>
+  <i>© 2025 Clifford Edewor – Building Secure, Resilient Digital Systems</i>
 </p>
