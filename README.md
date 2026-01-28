@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-  <strong>Cybersecurity Specialist & Educator focused on IT/OT, Cloud, and Network Security.</strong>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/clifford-edewor" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
