@@ -31,13 +31,15 @@
 
 ### 🧭 About Me  
 
-A **Cybersecurity Specialist and Educator** dedicated to securing systems and empowering people through hands-on training, research, and leadership.  
+**Cybersecurity Specialist and Educator** focused on securing systems and building practical cybersecurity capacity.
 
-I have trained and mentored **400+ learners** across institutions and national programmes, including serving as **Cybersecurity Instructor & Facilitator for NITDA’s 3MTT Programme**. My work spans **infrastructure protection, risk management, and digital safety initiatives**, achieving measurable outcomes such as a **40% reduction in cyber risk exposure** among learners and professionals.  
+I work across IT/OT security, infrastructure protection, risk management, and incident response, with experience in regulated and safety-critical environments. I have trained and mentored **400+ learners** across institutions and national programmes, including serving as a **Cybersecurity Instructor and Facilitator under NITDA’s 3 Million Technical Talent (3MTT) Programme**, delivering hands-on, applied cybersecurity training.
 
-As the **HND Pioneer President of NACOS PTI Chapter**, I strengthened student leadership in **cybersecurity, AI, and cloud computing**, fostering innovation and professional growth.   
+My work has contributed to measurable risk reduction, including up to a **40% decrease in cyber-risk exposure** through improved security awareness, monitoring, and control deployment across IT and OT systems.
 
-I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, contractor to **Segilola Resources Operating Limited (SROL), a subsidiary of Thor Explorations Ltd**. I oversee control room systems, secure networked security infrastructure, and enforce cybersecurity controls to maintain safe, efficient, and compliant operations in **SROL’s safety-critical mining environment**.
+I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, deployed to **Segilola Resources Operating Limited (SROL)**, a subsidiary of **Thor Explorations Ltd**. In this role, I support the security of control-room systems, industrial networks, and enterprise infrastructure, implementing cybersecurity controls to maintain safe, resilient, and compliant operations in a safety-critical mining environment.
+
+Previously, as **Pioneer President of the NACOS PTI Chapter**, I strengthened student leadership in cybersecurity, cloud computing, and emerging technologies, fostering innovation and professional growth.
 
 ---
 
