@@ -24,8 +24,7 @@
 
 ---
 
-<h2 align="center">🌍 Inspiring a Safe and Secure Digital World</h2>
-<h3 align="center">Building Capacity | Strengthening Systems | Empowering People</h3>
+<h2 align="center">Building Secure, Resilient Digital Systems</h2>
 
 ---
 
