@@ -7,7 +7,11 @@
 <h1 align="center">Clifford Edewor | Cybersecurity Portfolio</h1>
 
 <p align="center">
-  <em>Cybersecurity Specialist & Educator focused on IT/OT, Cloud, and Network Security.</em>
+  <strong>Cybersecurity Specialist & Educator</strong> focused on IT/OT, Cloud, and Network Security.
+</p>
+
+<p align="center">
+  <strong>Cybersecurity Specialist & Educator focused on IT/OT, Cloud, and Network Security.</strong>
 </p>
 
 <p align="center">
