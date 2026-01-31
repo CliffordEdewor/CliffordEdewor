@@ -1,7 +1,7 @@
 <!-- Cybersecurity Portfolio README -->
 
 <p align="center">
-  <img src="images/CyberSecurity%20Background%20Photo.jpg" alt="Cybersecurity Banner" width="100%">
+  <img src="images/CyberSecurity%20Background%20Photo.jpeg" alt="Cybersecurity Banner" width="100%">
 </p>
 
 <h1 align="center">Clifford Edewor | Cybersecurity Portfolio</h1>
