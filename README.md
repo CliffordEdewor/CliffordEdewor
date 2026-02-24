@@ -38,8 +38,6 @@ My work has contributed to measurable risk reduction, including up to a **40% de
 
 I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, deployed to **Segilola Resources Operating Limited (SROL)**, a subsidiary of **Thor Explorations Ltd**. In this role, I support the security of control-room systems, industrial networks, and enterprise infrastructure, implementing cybersecurity controls to maintain safe, resilient, and compliant operations in a safety-critical mining environment.
 
-Previously, as **Pioneer President of the NACOS PTI Chapter**, I strengthened student leadership in cybersecurity, cloud computing, and emerging technologies, fostering innovation and professional growth.
-
 ---
 
 ### 🛠️ Skills & Tools
