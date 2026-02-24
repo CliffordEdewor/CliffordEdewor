@@ -86,7 +86,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- Trained and mentored **400+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **NITDA’s 3MTT** cybersecurity programme through practical labs, awareness campaigns, and hands-on defence exercises.
+- Trained and mentored **400+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
 
 - Served within **Nigeria’s 2023 General Election Cybersecurity Situation Room**, supporting system monitoring and coordinated incident response to protect election integrity.
 
