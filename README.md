@@ -88,19 +88,19 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- 🧑‍🏫 Trained and mentored **400+ learners** across **PTI**, **GMA**, and **NITDA’s 3MTT** programmes through immersive labs, awareness campaigns, and practical defense exercises.  
+- Trained and mentored **400+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **NITDA’s 3MTT** cybersecurity programme through practical labs, awareness campaigns, and hands-on defence exercises.
 
-- 🛡️ Contributed to **Nigeria’s 2023 General Elections** as **Cybersecurity Coordinator & Incident Response Team Member**, strengthening electoral security and national resilience.  
+- Served within **Nigeria’s 2023 General Election Cybersecurity Situation Room**, supporting system monitoring and coordinated incident response to protect election integrity.
 
-- 🎓 Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, with **20% of trainees** earning global certifications, awards, and scholarships.  
+- Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, enabling approximately **20% of participants** to achieve internationally recognised industry certifications **(ISC2 CC, CompTIA Security+)**, with others progressing into entry-level roles and receiving national recognition.
 
-- 🧠 Supervised **ND2 cybersecurity and networking projects** at **GMA**, fostering innovation, teamwork, and real-world problem-solving.  
+- Supervised **ND2 cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng) **GMA**, strengthening practical problem-solving and applied security skills.
   
-- 🚀 As a **Cybersecurity Instructor & Networking Lab Technologist**, led **cybersecurity awareness campaigns** that reduced **risk exposure among students and staff by 40%**.
+- Led **cybersecurity awareness and risk-reduction initiatives** that improved secure practices and reduced cyber risk exposure among students and staff by **40%**.
 
-- 🏫 Played a **pivotal role** in securing **NBTE’s approval** for **GMA’s HND Networking & Cloud Computing** programme through the rigorous preparation and defense of the Networking Laboratory.  
+- Led the preparation and technical defence of the Networking Laboratory that secured **National Board for Technical Education** [NBTE](https://net.nbte.gov.ng) approval for **GMA’s first HND Networking & Cloud Computing** programme.
 
-- 🧑‍💼 Pioneered **student leadership** as **HND Pioneer President**, driving engagement in **cybersecurity, AI, and cloud computing**; awarded **Excellence for Outstanding Performance as NACOS President (2024 session)**.
+- Served as the **Inaugural HND President** of the NACOS PTI Chapter, establishing governance structures and coordinating student-led initiatives in cybersecurity, cloud computing, and emerging technologies.
 
 ---
 
