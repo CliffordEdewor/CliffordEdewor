@@ -98,9 +98,9 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
   
 - Led **cybersecurity awareness and risk-reduction initiatives** that improved secure practices and reduced cyber risk exposure among students and staff by **40%**.
 
-- Led the preparation and technical defence of the Networking Laboratory that secured **National Board for Technical Education** [NBTE](https://net.nbte.gov.ng) approval for **GMA’s first HND Networking & Cloud Computing** programme.
+- Led the preparation and technical defence of the Networking Laboratory that secured [National Board for Technical Education](https://web.nbte.gov.ng/) approval for **GMA’s first HND Networking & Cloud Computing** programme.
 
-- Served as the **Inaugural HND President** of the NACOS PTI Chapter, establishing governance structures and coordinating student-led initiatives in cybersecurity, cloud computing, and emerging technologies.
+- Served as the **Inaugural HND President** of the [Nigeria Association of Computing Students (NACOS) PTI Chapter](https://nacos.org.ng/), establishing governance structures and coordinating student-led initiatives in cybersecurity, cloud computing, and emerging technologies.
 
 ---
 
