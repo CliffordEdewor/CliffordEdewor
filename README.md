@@ -70,6 +70,9 @@ I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engin
 
 ### 📂 Featured Projects
 
+### 🔹 [Strands Agents on Bedrock AgentCore](https://github.com/CliffordEdewor/Strands-Agents-Bedrock-AgentCore)
+Hands-on implementation of secure Agentic AI agents using Amazon Bedrock AgentCore, Strands framework, MCP Gateway, Cognito JWT authentication, Docker deployment, and full CloudWatch GenAI observability.
+
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
 Real-time threat detection and mitigation using Snort IDS, showcasing intrusion prevention and alerting techniques.  
 
