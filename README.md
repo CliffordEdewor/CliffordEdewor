@@ -7,10 +7,7 @@
 <h1 align="center">Clifford Edewor | Cybersecurity Portfolio</h1>
 
 <p align="center">
-  <strong>Cybersecurity Specialist & Educator</strong> focused on IT/OT and critical infrastructure security, with experience across cloud and network security.
-</p>
-<p align="center">
-<strong>Cybersecurity Specialist & Educator</strong> focused on IT/OT and critical infrastructure security, with cloud and network experience.
+  <strong>Cybersecurity Specialist & Educator</strong> focused on IT/OT and Critical Infrastructure Security, with experience across Cloud and Network Security.
 </p>
 
 <p align="center">
