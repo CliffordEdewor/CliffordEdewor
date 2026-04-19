@@ -7,7 +7,7 @@
 <h1 align="center">Clifford Edewor | Cybersecurity Portfolio</h1>
 
 <p align="center">
-  <strong>Cybersecurity Specialist & Educator</strong> focused on IT/OT and Critical Infrastructure Security, with experience across Cloud and Network Security.
+  <strong>Cybersecurity Specialist & Educator | IT/OT Critical Infrastructure Security | Cloud & Network Security.</strong>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 I work across IT/OT security, critical infrastructure protection, risk management, and incident response in regulated and safety-critical environments. I have trained and mentored **400+ learners** through institutions and national programmes, including serving as a **Cybersecurity Instructor and Facilitator under the NITDA 3 Million Technical Talent (3MTT) Programme.**
 
-I have **contributed to election cybersecurity operations**, supporting coordination and incident response in a high-trust national environment.
+I have **contributed to election cybersecurity operations**, including coordination and incident response in a high-trust national environment.
 
 My work has led to measurable impact, including up to a **40% reduction in cyber-risk exposure** through improved security awareness, monitoring, and control implementation.
 
@@ -43,6 +43,8 @@ I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engin
 ---
 
 ### 🛠️ Skills & Tools
+
+Core capabilities spanning IT/OT security, critical infrastructure protection, monitoring, incident response, and governance frameworks:
 
 #### 🧩 Security & Monitoring
 ![Snort IDS](https://img.shields.io/badge/Snort_IDS-Intrusion_Detection-critical)
@@ -79,7 +81,7 @@ Production-grade Agentic AI systems secured with AWS Cognito and MCP Gateway, de
 Secure agent–tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
 
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
-Real-time threat detection and mitigation using Snort IDS, showcasing intrusion prevention and alerting techniques.  
+Real-time threat detection and mitigation using Snort IDS, demonstrating intrusion detection, alert correlation, and network defence techniques.
 
 ### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
 Mitigating cybersecurity threats in IoT devices, implementing device-level, network-level, and data security strategies to protect IoT ecosystems.
@@ -112,7 +114,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📸 Leadership in Action
 
-**My leadership journey spans institutional, national, and professional levels, shaping talent, innovation, and digital resilience.**
+**Leadership experience spanning institutional, national, and professional cybersecurity initiatives, driving capacity development and digital resilience.**
 
 #### 🧑‍💼 Student & Institutional Leadership
 <p align="center">
@@ -170,7 +172,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 💬 Quote
 
-> 🛡️ *“Cybersecurity is not just about technology, it’s about people, trust, and resilience.”*
+> 🛡️ *“Cybersecurity is not only about protecting systems, but enabling trust, resilience, and continuity in critical environments.”*
 
 ---
 
