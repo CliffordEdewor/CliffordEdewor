@@ -32,11 +32,13 @@
 
 **Cybersecurity Specialist and Educator** focused on securing systems and building practical cybersecurity capacity.
 
-I work across IT/OT security, infrastructure protection, risk management, and incident response, with experience in regulated and safety-critical environments. I have trained and mentored **400+ learners** across institutions and national programmes, including serving as a **Cybersecurity Instructor and Facilitator under NITDA’s 3 Million Technical Talent (3MTT) Programme**, delivering hands-on, applied cybersecurity training.
+I work across IT/OT security, critical infrastructure protection, risk management, and incident response in regulated and safety-critical environments. I have trained and mentored **400+ learners** through institutions and national programmes, including serving as a **Cybersecurity Instructor and Facilitator under the NITDA 3 Million Technical Talent (3MTT) Programme.**
 
-My work has contributed to measurable risk reduction, including up to a **40% decrease in cyber-risk exposure** through improved security awareness, monitoring, and control deployment across IT and OT systems.
+I have **contributed to election cybersecurity operations**, supporting coordination and incident response in a high-trust national environment.
 
-I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, deployed to **Segilola Resources Operating Limited (SROL)**, a subsidiary of **Thor Explorations Ltd**. In this role, I support the security of control-room systems, industrial networks, and enterprise infrastructure, implementing cybersecurity controls to maintain safe, resilient, and compliant operations in a safety-critical mining environment.
+My work has led to measurable impact, including up to a **40% reduction in cyber-risk exposure** through improved security awareness, monitoring, and control implementation.
+
+I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, deployed to **Segilola Resources Operating Limited (SROL)**, where I support the security of industrial systems, control networks, and enterprise infrastructure in a safety-critical mining environment.
 
 ---
 
