@@ -30,15 +30,17 @@
 
 ### 🧭 About Me  
 
-**Cybersecurity Specialist and Educator** focused on securing systems and building practical cybersecurity capacity.
+**Cybersecurity Specialist** focused on IT/OT security operations, critical infrastructure protection, incident response, and digital resilience across regulated and safety-critical environments.
 
-I work across IT/OT security, critical infrastructure protection, risk management, and incident response in regulated and safety-critical environments. I have trained and mentored **400+ learners** through institutions and national programmes, including serving as a **Cybersecurity Instructor and Facilitator under the NITDA 3 Million Technical Talent (3MTT) Programme.**
+Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecurity Merit Awards) for emerging leadership in cybersecurity, workforce development, and critical infrastructure protection.
 
-I have **contributed to election cybersecurity operations**, including coordination and incident response in a high-trust national environment.
+**IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
-My work has led to measurable impact, including up to a **40% reduction in cyber-risk exposure** through improved security awareness, monitoring, and control implementation.
+Experience spans **election cybersecurity, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
 
-I currently serve as an **IT/OT Security Operations Officer** with **Sinic Engineering Limited**, deployed to **Segilola Resources Operating Limited (SROL)**, where I support the security of industrial systems, control networks, and enterprise infrastructure in a safety-critical mining environment.
+Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
+
+Contributed to a **30% reduction** in OT security incidents through improved security awareness, monitoring, and ISO 27001/NIST-aligned controls.
 
 ---
 
@@ -96,7 +98,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- Winner, **Rising Star of the Year 2026** at the Cybersecurity Merit Awards presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](http://www.csean.org.ng/), recognising emerging leadership in cybersecurity, digital resilience, and critical infrastructure protection.
+- Winner, **Rising Star of the Year 2026** at the Cybersecurity Merit Awards presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng/), recognising emerging leadership in cybersecurity, digital resilience, and critical infrastructure protection.
 
 - Trained and mentored **500+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
 
