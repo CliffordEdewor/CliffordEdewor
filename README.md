@@ -22,6 +22,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/CSEAN-Rising%20Star%20of%20the%20Year%202026-0077B5?style=for-the-badge" alt="CSEAN Rising Star 2026"/>
+</p>
+
 ---
 
 <h2 align="center">Building Secure, Resilient Digital Systems</h2>
@@ -36,7 +40,7 @@ Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecuri
 
 **IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
-Experience spans **election cybersecurity, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
+Experience spans **election cybersecurity operations, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
 
 Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
 
@@ -98,7 +102,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- Winner, **Rising Star of the Year 2026** at the Cybersecurity Merit Awards presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng/), recognising emerging leadership in cybersecurity, digital resilience, and critical infrastructure protection.
+- Winner, **Rising Star of the Year 2026** at the Cybersecurity Merit Awards presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng/), recognising emerging leadership and contribution to cybersecurity resilience and critical infrastructure protection.
 
 - Trained and mentored **500+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
 
@@ -150,17 +154,16 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 | Certification | Issuer |
 |----------------|--------|
 | **ISC² Certified in Cybersecurity (CC)**  | ISC² |
-| **Applied Live Forensics** | EC-Council |
 | **Cybersecurity Leadership & Management**  | ISACA |
 | **Senior Management & Information Security Governance**  | ISACA |
-| **CS50 Introduction to Cybersecurity** | HarvardX |
+| **Applied Live Forensics** | EC-Council |
 | **Advanced Cybersecurity Program** | Stanford University, School of Engineering |
+| **CS50 Introduction to Cybersecurity** | HarvardX |
 
 ---
 
 ### 🏛️ Professional Memberships
 - Professional Member, Cyber Security Experts Association of Nigeria (CSEAN)
-- Student Member, Nigeria Computer Society (NCS)
 
 ---
 
@@ -179,5 +182,5 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 ---
 
 <p align="center">
-  <i>© 2025 Clifford Edewor – Building Secure, Resilient Digital Systems</i>
+  <i>© 2026 Clifford Edewor – Building Secure, Resilient Digital Systems</i>
 </p>
