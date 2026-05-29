@@ -4,7 +4,7 @@
   <img src="images/CyberSecurity%20Background%20Photo.jpeg" alt="Cybersecurity Banner" width="100%">
 </p>
 
-<h1 align="center">Clifford Edewor | Cybersecurity Portfolio</h1>
+<h1 align="center">Cybersecurity Portfolio</h1>
 
 <p align="center">
   <strong>Cybersecurity Specialist & Educator | IT/OT Critical Infrastructure Security | Cloud & Network Security.</strong>
