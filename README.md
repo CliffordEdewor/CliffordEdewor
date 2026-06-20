@@ -40,7 +40,7 @@ Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecuri
 
 **IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
-Experience spans **election cybersecurity operations, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
+Experience spans **election cybersecurity operations, critical infrastructure security, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
 
 Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
 
@@ -87,13 +87,13 @@ Production-grade Agentic AI systems secured with AWS Cognito and MCP Gateway, de
 Secure agent–tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
 
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
-Real-time threat detection and mitigation using Snort IDS, demonstrating intrusion detection, alert correlation, and network defence techniques.
+Real-time threat detection and mitigation using Snort IDS, demonstrating intrusion detection engineering, threat detection, alert generation, and security monitoring workflows.
 
 ### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
 Mitigating cybersecurity threats in IoT devices, implementing device-level, network-level, and data security strategies to protect IoT ecosystems.
 
 ### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
-A web-based remote voting platform developed as an ND final-year project to reduce electoral malpractice and enhance trust in online elections.
+Web-based voting platform designed to enhance election transparency, voter participation, and trust in digital voting systems.
 
 ### 🔹 [Network Traffic Security Analysis](https://github.com/CliffordEdewor/Network-traffic-security-analysis)
 A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and how switches intelligently forward frames to improve security and prevent sniffing.
@@ -122,9 +122,9 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 **Leadership experience spanning institutional, national, and professional cybersecurity initiatives, driving capacity development and digital resilience.**
 
-#### 🧑‍💼 Student & Institutional Leadership
+#### 🏆 Industry Recognition & Professional Impact
 <p align="center">
-  <img src="images/nacos-election.jpg" alt="Clifford elected NACOS HND Pioneer President" width="80%" />
+  <img src="images/Rising-Star-CSEANjpg" alt="CSEAN Rising Star of the Year 2026 Recognition" width="80%" />
 <br/>
 <em>Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.</em>
 </p>
@@ -146,19 +146,6 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 <br/>  
 <em>Contributed to practical instruction and mentorship at GMA, guiding learners in cybersecurity, networking, and safety-critical digital systems.</em>
 </p>
-
----
-
-### 🎓 Specialized Training & Certifications
-
-| Certification | Issuer |
-|----------------|--------|
-| **ISC² Certified in Cybersecurity (CC)**  | ISC² |
-| **Cybersecurity Leadership & Management**  | ISACA |
-| **Senior Management & Information Security Governance**  | ISACA |
-| **Applied Live Forensics** | EC-Council |
-| **Advanced Cybersecurity Program** | Stanford University, School of Engineering |
-| **CS50 Introduction to Cybersecurity** | HarvardX |
 
 ---
 
