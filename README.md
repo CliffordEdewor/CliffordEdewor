@@ -124,12 +124,10 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 #### 🏆 Industry Recognition & Professional Impact
 <p align="center">
-  <img src="images/Rising-Star-CSEANjpg" alt="CSEAN Rising Star of the Year 2026 Recognition" width="80%" />
+  <img src="images/Rising-Star-CSEAN.png" alt="CSEAN Rising Star of the Year 2026 Recognition" width="80%" />
 <br/>
-<em>Served as HND Pioneer President, NACOS PTI Chapter, advancing student leadership in computing and cybersecurity.</em>
-</p>
-  <img src="images/nacos-convention.jpg" alt="Clifford at NACOS National Convention" width="100%" />
-</p>  
+<em>Recognised by the Cyber Security Experts Association of Nigeria (CSEAN) with the Rising Star of the Year 2026 Award.</em>
+</p> 
 
 ### 🧠 Cybersecurity Education & National Impact  
 <p align="center">
