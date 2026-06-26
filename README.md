@@ -34,17 +34,17 @@
 
 ### 🧭 About Me  
 
-**Cybersecurity Specialist** focused on IT/OT security operations, critical infrastructure protection, incident response, and digital resilience across regulated and safety-critical environments.
+**Cybersecurity Specialist** focused on IT/OT security operations, critical infrastructure protection, incident response, and cyber resilience across regulated and safety-critical environments.
 
 Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecurity Merit Awards) for emerging leadership in cybersecurity, workforce development, and critical infrastructure protection.
 
 **IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
-Experience spans **election cybersecurity operations, critical infrastructure security, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
+Experience spans **election cybersecurity, critical infrastructure protection, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
 
 Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
 
-Contributed to a **30% reduction** in OT security incidents through improved security awareness, monitoring, and ISO 27001/NIST-aligned controls.
+Contributed to strengthening **OT cybersecurity resilience** through **security monitoring**, **incident response**, **cybersecurity awareness**, and implementing **ISO 27001- and NIST-aligned security controls**.
 
 ---
 
@@ -108,7 +108,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - Served in **Nigeria’s 2023 General Election Cybersecurity Situation Room**, contributing to real-time system monitoring and coordinated incident response to safeguard national electoral integrity.
 
-- **Led the preparation and technical defence of a Networking Laboratory**, securing [National Board for Technical Education](https://web.nbte.gov.ng/) approval for **GMA’s first HND Networking & Cloud Computing** programme.
+- **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
 
 - Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, enabling **~20% of participants** to achieve internationally recognised certifications **(ISC2 CC, CompTIA Security+)**, with others progressing into entry-level roles.
 
