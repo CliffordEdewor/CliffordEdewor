@@ -102,17 +102,17 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- Winner, **Rising Star of the Year 2026** at the Cybersecurity Merit Awards presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng/), recognising emerging leadership and contribution to cybersecurity resilience and critical infrastructure protection.
+- Winner, **CSEAN Rising Star of the Year 2026**, presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng), recognising emerging leadership in cybersecurity, workforce development, and critical infrastructure protection.
 
 - Trained and mentored **500+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
 
-- Served in **Nigeria’s 2023 General Election Cybersecurity Situation Room**, contributing to real-time system monitoring and coordinated incident response to safeguard national electoral integrity.
+- Served in **Nigeria’s 2023 General Election Cybersecurity Situation Room**, supporting real-time monitoring, incident response coordination, and the protection of critical election technologies.
 
 - **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
 
 - Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, enabling **~20% of participants** to achieve internationally recognised certifications **(ISC2 CC, CompTIA Security+)**, with others progressing into entry-level roles.
 
-- **Supervised cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng) (GMA), while leading cybersecurity awareness and risk-reduction initiatives that strengthened secure practices and applied security capabilities among students and staff.
+- **Supervised cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng) (GMA), while leading cybersecurity awareness initiatives that strengthened secure practices among students and staff.
 
 - Served as **Inaugural HND President** of the [Nigeria Association of Computing Students (NACOS)](https://nacos.org.ng/) PTI Chapter, establishing governance structures and leading student-driven initiatives in cybersecurity, and emerging technologies.
 
