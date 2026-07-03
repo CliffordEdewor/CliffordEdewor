@@ -124,7 +124,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 #### 🏆 Industry Recognition & Professional Impact
 <p align="center">
-  <img src="images/CSEAN-Rising-Star.png" alt="CSEAN Rising Star of the Year 2026 Recognition" width="80%" />
+  <img src="images/CSEAN-Rising-Star.png" alt="CSEAN Rising Star of the Year 2026 Recognition" width="100%" />
 <br/>
 <em>Recognised by the Cyber Security Experts Association of Nigeria (CSEAN) with the Rising Star of the Year 2026 Award.</em>
 </p> 
