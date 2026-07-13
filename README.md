@@ -36,7 +36,7 @@
 
 **Cybersecurity Specialist** focused on IT/OT security operations, critical infrastructure protection, incident response, and cyber resilience across regulated and safety-critical environments.
 
-Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecurity Merit Awards) for emerging leadership in cybersecurity, workforce development, and critical infrastructure protection.
+Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecurity Merit Awards) for emerging leadership in cybersecurity, critical infrastructure protection, and workforce development.
 
 **IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
