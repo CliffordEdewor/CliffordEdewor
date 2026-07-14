@@ -50,13 +50,20 @@ Contributed to strengthening **OT cybersecurity resilience** through **security 
 
 ### 🛠️ Skills & Tools
 
-Core capabilities spanning IT/OT security, critical infrastructure protection, monitoring, incident response, and governance frameworks:
+Core capabilities spanning IT/OT security, critical infrastructure protection, monitoring, incident response, and governance frameworks.
 
 #### 🧩 Security & Monitoring
 ![Snort IDS](https://img.shields.io/badge/Snort_IDS-Intrusion_Detection-critical)
 ![Firewalls](https://img.shields.io/badge/Firewalls-Network_Security-blue)
 ![VPNs](https://img.shields.io/badge/VPNs-Secure_Connectivity-green)
 ![SIEM](https://img.shields.io/badge/SIEM-Event_Monitoring-orange)
+
+#### 🏭 Industrial Security
+
+![Operational Technology](https://img.shields.io/badge/Operational%20Technology-OT-blue)
+![ICS Security](https://img.shields.io/badge/ICS-Security-green)
+![Industrial Networks](https://img.shields.io/badge/Industrial-Networks-orange)
+![Network Segmentation](https://img.shields.io/badge/Network-Segmentation-red)
 
 #### ☁️ Cloud & Networks
 ![Cisco](https://img.shields.io/badge/Cisco-Networking-blue)
@@ -67,7 +74,7 @@ Core capabilities spanning IT/OT security, critical infrastructure protection, m
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-Scripting-black)
 
-#### 🧱 Governance, Risk & Compliance
+#### 📚 Governance, Risk & Compliance
 ![ISO 27001](https://img.shields.io/badge/ISO_27001-Information_Security-blue)
 ![NIST CSF](https://img.shields.io/badge/NIST-Cybersecurity_Framework-green)
 ![Risk Management](https://img.shields.io/badge/Risk_Management-Assessment-yellow)
