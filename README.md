@@ -87,13 +87,13 @@ Production-grade Agentic AI systems secured with AWS Cognito and MCP Gateway, de
 Secure agent–tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
 
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
-Real-time threat detection and mitigation using Snort IDS, demonstrating intrusion detection engineering, threat detection, alert generation, and security monitoring workflows.
+Engineered a Snort IDS solution to detect, alert on, and mitigate malicious network activity through custom detection rules and automated monitoring workflows.
 
 ### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
 Mitigating cybersecurity threats in IoT devices, implementing device-level, network-level, and data security strategies to protect IoT ecosystems.
 
 ### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
-Web-based voting platform designed to enhance election transparency, voter participation, and trust in digital voting systems.
+Secure web-based voting platform demonstrating authentication, election integrity, and trusted digital voting workflows.
 
 ### 🔹 [Network Traffic Security Analysis](https://github.com/CliffordEdewor/Network-traffic-security-analysis)
 A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and how switches intelligently forward frames to improve security and prevent sniffing.
@@ -163,7 +163,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 💬 Quote
 
-> 🛡️ *“Cybersecurity is not only about protecting systems, but enabling trust, resilience, and continuity in critical environments.”*
+> 🛡️ *“Protecting critical infrastructure requires secure engineering, resilient systems, and people capable of defending them.”*
 
 ---
 
