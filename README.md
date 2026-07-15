@@ -94,7 +94,7 @@ Production-grade Agentic AI systems secured with AWS Cognito and MCP Gateway, de
 Secure agent–tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
 
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
-Engineered a Snort IDS solution to detect, alert on, and mitigate malicious network activity through custom detection rules and automated monitoring workflows.
+Engineered and validated a Snort IDS solution for real-time threat detection, custom rule development, security monitoring, and alert generation within a virtualised enterprise-style network environment.
 
 ### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
 Mitigating cybersecurity threats in IoT devices, implementing device-level, network-level, and data security strategies to protect IoT ecosystems.
