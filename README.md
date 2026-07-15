@@ -97,7 +97,7 @@ Secure agent–tool integration using the Model Context Protocol (MCP) with depl
 Engineered and validated a Snort IDS solution for real-time threat detection, custom rule development, security monitoring, and alert generation within a virtualised enterprise-style network environment.
 
 ### 🔹 [IoT Security: Mitigating Cybersecurity Threats in Connected Devices](https://github.com/CliffordEdewor/IoT-Security-Mitigating-Cybersecurity-Threats-in-Connected-Devices)
-Mitigating cybersecurity threats in IoT devices, implementing device-level, network-level, and data security strategies to protect IoT ecosystems.
+Security architecture and layered defence strategies for protecting Internet of Things (IoT) environments through practical security design principles.
 
 ### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
 Secure web-based voting platform demonstrating authentication, election integrity, and trusted digital voting workflows.
