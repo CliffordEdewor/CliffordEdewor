@@ -100,7 +100,7 @@ Engineered and validated a Snort IDS solution for real-time threat detection, cu
 Security architecture and layered defence strategies for protecting Internet of Things (IoT) environments through practical security design principles.
 
 ### 🔹 [Online Voting System](https://github.com/CliffordEdewor/Online-Voting-System)
-Secure web-based voting platform demonstrating authentication, election integrity, and trusted digital voting workflows.
+Secure web-based voting platform demonstrating authentication, election integrity, secure vote casting, and trusted digital voting workflows.
 
 ### 🔹 [Network Traffic Security Analysis](https://github.com/CliffordEdewor/Network-traffic-security-analysis)
 A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and how switches intelligently forward frames to improve security and prevent sniffing.
