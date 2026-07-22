@@ -149,7 +149,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
   <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="48%" />
   <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="48%" />
 <br/>  
-<em>Delivered hands-on cybersecurity and networking instruction while leading the technical preparation and operational readiness of the Networking Laboratory, enabling the successful approval and launch of the institution's first HND programmes in Networking and Cloud Computing.</em>
+<em>Delivered hands-on cybersecurity and networking instruction while leading the technical preparation and operational readiness of the Networking Laboratory, enabling the approval and launch of the institution's first HND programmes in Networking and Cloud Computing.</em>
 </p>
 
 ---
