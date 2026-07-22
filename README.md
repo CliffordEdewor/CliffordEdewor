@@ -136,7 +136,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 <em>Recognised by the Cyber Security Experts Association of Nigeria (CSEAN) with the Rising Star of the Year 2026 Award.</em>
 </p> 
 
-### 🧠 Cybersecurity Education & National Impact  
+### 🧠 Cybersecurity Workforce Development & National Impact  
 <p align="center">
   <img src="images/3mtt-training.jpg" alt="Clifford facilitating cybersecurity training under NITDA 3MTT" width="49.5%" />
   <img src="images/3mtt-laptops.jpg" alt="3MTT trainees who won national laptop awards" width="48%" />
@@ -144,7 +144,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 <em>Delivered hands-on cybersecurity training under NITDA's 3 Million Technical Talent (3MTT) Programme, enabling learners to achieve internationally recognised certifications, internships, entry-level cybersecurity roles, and national recognition.</em>
 </p>
 
-### 🏫 Institutional Development & Mentorship  
+### 🏫 Institutional Development & Technical Leadership
 <p align="center">
   <img src="images/GMA_Networking_Lab.jpg" alt="Clifford leading hands-on networking sessions at Global Maritime Academy" width="48%" />
   <img src="images/GMA_Students_Group.jpg" alt="Clifford mentoring students at Global Maritime Academy" width="48%" />
