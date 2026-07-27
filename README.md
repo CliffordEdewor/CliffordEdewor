@@ -40,7 +40,7 @@ Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecuri
 
 **IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
-Experience spans **election cybersecurity, critical infrastructure protection, cloud-native security, and AI security**, including secure Agentic AI workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
+Experience spans **election cybersecurity, critical infrastructure protection, cloud-native security, and Agentic AI security**, including secure workflows with AWS Cognito, MCP, and Amazon Bedrock AgentCore.
 
 Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
 
@@ -155,8 +155,8 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 ---
 
 ### 🏛️ Professional Memberships
-- Professional Member, Cyber Security Experts Association of Nigeria (CSEAN)
-- Associate Member, Nigeria Computer Society (NCS)
+- **Cyber Security Experts Association of Nigeria (CSEAN)** — Professional Member
+- **Nigeria Computer Society (NCS)** — Associate Member
 
 ---
 
@@ -170,7 +170,9 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 💬 Quote
 
-> 🛡️ *“Protecting critical infrastructure requires secure engineering, resilient systems, and people capable of defending them.”*
+<p align="center">
+  <strong><em>"Protecting critical infrastructure demands secure engineering, resilient systems, and skilled defenders."</em></strong>
+</p>
 
 ---
 
