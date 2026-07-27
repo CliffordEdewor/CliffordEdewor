@@ -113,15 +113,15 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - Trained and mentored **500+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
 
-- Served in **Nigeria’s 2023 General Election Cybersecurity Situation Room**, supporting real-time monitoring, incident response coordination, and the protection of critical election technologies.
+- Served in **Nigeria’s 2023 General Election Cybersecurity Situation Room**, supporting real-time cyber threat monitoring, incident response coordination, and the protection of critical election technologies.
 
 - **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
 
-- Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, enabling **~20% of participants** to achieve internationally recognised certifications **(ISC2 CC, CompTIA Security+)**, with others progressing into entry-level roles.
+- Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, enabling **~20% of participants** to achieve internationally recognised certifications **(ISC2 CC, CompTIA Security+)**, with others progressing into internships and entry-level cybersecurity roles.
 
-- **Supervised cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng) (GMA), while leading cybersecurity awareness initiatives that strengthened secure practices among students and staff.
+- **Supervised practical cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng) (GMA) while leading cybersecurity awareness initiatives that strengthened secure practices among students and staff.
 
-- Served as **Inaugural HND President** of the [Nigeria Association of Computing Students (NACOS)](https://nacos.org.ng/) PTI Chapter, establishing governance structures and leading student-driven initiatives in cybersecurity, and emerging technologies.
+- Served as the **Inaugural HND President** of the [Nigeria Association of Computing Students (NACOS)](https://nacos.org.ng/) PTI Chapter, establishing governance structures and leading student initiatives in cybersecurity and emerging technologies.
 
 ---
 
