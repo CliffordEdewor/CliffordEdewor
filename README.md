@@ -7,7 +7,7 @@
 <h1 align="center">Cybersecurity Portfolio</h1>
 
 <p align="center">
-  <strong>Cybersecurity Specialist & Educator | IT/OT Critical Infrastructure Security | Cloud & Network Security.</strong>
+  <strong>Cybersecurity Specialist | IT/OT Critical Infrastructure Security | Cloud & Network Security.</strong>
 </p>
 
 <p align="center">
