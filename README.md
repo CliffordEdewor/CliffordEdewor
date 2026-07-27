@@ -109,7 +109,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- Winner, **CSEAN Rising Star of the Year 2026**, presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng), recognising emerging leadership in cybersecurity, workforce development, and critical infrastructure protection.
+- Winner, **CSEAN Rising Star of the Year 2026**, presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng), in recognition of emerging leadership in cybersecurity, critical infrastructure protection, and cybersecurity workforce development.
 
 - Trained and mentored **500+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
 
