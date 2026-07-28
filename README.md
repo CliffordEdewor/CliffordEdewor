@@ -38,7 +38,7 @@
 
 Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecurity Merit Awards) for emerging leadership in cybersecurity, critical infrastructure protection, and cybersecurity workforce development.
 
-**IT/OT Security Operations Officer** at Sinic Engineering Limited, supporting Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
+As an **IT/OT Security Operations Officer** at Sinic Engineering Limited, I support Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
 
 Experience spans **election cybersecurity, critical infrastructure protection, cloud-native security, and Agentic AI security**, including secure workflows with AWS Cognito, Amazon Bedrock AgentCore, and Model Context Protocol (MCP).
 
