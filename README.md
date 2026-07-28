@@ -44,7 +44,7 @@ Experience spans **election cybersecurity, critical infrastructure protection, c
 
 Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
 
-Contributed to strengthening **OT cybersecurity resilience** through **security monitoring**, **incident response**, **cybersecurity awareness**, and implementing **ISO/IEC 27001- and NIST-aligned security controls**.
+Contributed to strengthening **OT cybersecurity resilience** through **security monitoring**, **incident response**, **cybersecurity awareness**, and the implementation of **ISO/IEC 27001- and NIST-aligned security controls**.
 
 ---
 
