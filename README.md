@@ -179,5 +179,3 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 <p align="center">
   <i>© 2026 Clifford Edewor – Building Secure, Resilient Digital Systems</i>
 </p>
-
----
