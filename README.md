@@ -91,7 +91,7 @@ Core capabilities spanning IT/OT security, critical infrastructure protection, m
 Production-oriented Agentic AI security reference architecture using AWS Cognito, MCP Gateway, Strands Agents and Amazon Bedrock AgentCore, demonstrating secure design, deployment and observability.
 
 ### 🔹 [Secure MCP Agent Integration for AI Tooling](https://github.com/CliffordEdewor/secure-mcp-agent-integration)
-Secure agent–tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
+Secure agent-tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
 
 ### 🔹 [Snort IDS Threat Detection](https://github.com/CliffordEdewor/Snort-IDS-Threat-Detection)
 Engineered and validated a Snort IDS solution for real-time threat detection, custom rule development, security monitoring, and alert generation within a virtualised enterprise-style network environment.
