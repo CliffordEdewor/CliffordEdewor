@@ -88,7 +88,7 @@ Core capabilities spanning IT/OT security, critical infrastructure protection, m
 ### 🚀 Featured Projects
 
 ### 🔹 [Agentic AI Security at Scale with Strands Agents & Bedrock AgentCore](https://github.com/CliffordEdewor/agentic-ai-security-bedrock-strands)
-Production-grade Agentic AI systems secured with AWS Cognito and MCP Gateway, demonstrating end-to-end secure design, deployment, and observability using Strands Agents and Amazon Bedrock AgentCore.
+Production-oriented Agentic AI security reference architecture using AWS Cognito, MCP Gateway, Strands Agents and Amazon Bedrock AgentCore, demonstrating secure design, deployment and observability.
 
 ### 🔹 [Secure MCP Agent Integration for AI Tooling](https://github.com/CliffordEdewor/secure-mcp-agent-integration)
 Secure agent–tool integration using the Model Context Protocol (MCP) with deployment on AWS AgentCore, demonstrating controlled tool invocation and secure interaction patterns for agentic AI systems.
