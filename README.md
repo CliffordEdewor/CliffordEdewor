@@ -111,13 +111,13 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - 🏆 Winner, **CSEAN Rising Star of the Year 2026**, awarded by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng/) for emerging leadership in cybersecurity and workforce development.
 
-- 🎓 Trained and mentored **500+ learners** through **PTI**, **GMA**, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng/) **3MTT cybersecurity programme**, delivering practical cybersecurity training and hands-on infrastructure labs.
-
 - 🗳️ Coordinated election cybersecurity operations across **192 polling units and 10 registration areas** during Nigeria’s 2023 General Elections, connecting field teams to the Situation Room and training **200+ polling personnel** on secure electoral technology.
 
 - 📝 Served as an **Expert Cybersecurity Advisor** to Unicus Campus, designing its core training curriculum around real-world threat scenarios and practical competencies. The programme has trained **50+ emerging professionals** to date.
 
 - ☁️ **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
+
+- 🎓 Trained and mentored **500+ learners** through **PTI**, **GMA**, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng/) **3MTT cybersecurity programme**, delivering practical cybersecurity training and hands-on infrastructure labs.
 
 - 🛡️ Delivered hands-on cybersecurity training through [NITDA’s 3MTT Programme](https://3mtt.nitda.gov.ng/), with **~20% of participants achieving career-development outcomes**, including earning ISC2 Certified in Cybersecurity (CC) or CompTIA Security+ certifications, securing internships, or progressing into entry-level cybersecurity roles.
 
