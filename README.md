@@ -32,19 +32,19 @@
 
 ---
 
-### 🧭 About Me  
+### 🧭 About Me
 
-**Cybersecurity Specialist** focused on IT/OT security operations, critical infrastructure protection, incident response, and cyber resilience across regulated and safety-critical environments.
+**Cybersecurity Specialist** focused on IT/OT security operations, critical infrastructure protection, incident response, vulnerability management, and cyber resilience across regulated and safety-critical environments.
 
 Recognised nationally as the **CSEAN Rising Star of the Year 2026** (Cybersecurity Merit Awards) for emerging leadership in cybersecurity, critical infrastructure protection, and cybersecurity workforce development.
 
-As an **IT/OT Security Operations Officer** at Sinic Engineering Limited, I support Segilola Resources Operating Limited (SROL) in securing industrial systems, control networks, and enterprise infrastructure within a safety-critical mining environment.
+As an **IT/OT Security Operations Officer at Sinic Engineering Limited (SROL)**, my work focuses on industrial cybersecurity, security monitoring, incident response support, vulnerability management, access controls, and cybersecurity awareness across enterprise and operational technology environments.
 
-Experience spans **election cybersecurity, critical infrastructure protection, cloud-native security, and Agentic AI security**, including secure workflows with AWS Cognito, Amazon Bedrock AgentCore, and Model Context Protocol (MCP).
+My experience spans **industrial cybersecurity, election cybersecurity, detection engineering, cloud security, and Agentic AI security**, including designing and securing agentic AI workflows using Amazon Bedrock AgentCore, AWS Cognito, and the Model Context Protocol (MCP).
 
-Trained and mentored **500+ learners** through institutions and national programmes, including the **NITDA 3 Million Technical Talent (3MTT) Programme.**
+I have trained and mentored **500+ learners** in cybersecurity, network security, secure coding, and computer networking through educational institutions and national workforce-development initiatives, including the **NITDA 3 Million Technical Talent (3MTT) Programme**, **PTI** and **Global Maritime Academy.**
 
-Contributed to strengthening **OT cybersecurity resilience** through **security monitoring**, **incident response**, **cybersecurity awareness**, and the implementation of **ISO/IEC 27001- and NIST-aligned security controls**.
+I am committed to strengthening **critical infrastructure security**, advancing the secure adoption of emerging technologies, and developing the next generation of cybersecurity talent.
 
 ---
 
@@ -109,19 +109,21 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ### 📊 Highlights & Achievements
 
-- Winner, **CSEAN Rising Star of the Year 2026**, presented by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng), in recognition of emerging leadership in cybersecurity, critical infrastructure protection, and cybersecurity workforce development.
+- 🏆 Winner, **CSEAN Rising Star of the Year 2026**, awarded by the [Cyber Security Experts Association of Nigeria (CSEAN)](https://csean.org.ng/) for emerging leadership in cybersecurity and workforce development.
 
-- Trained and mentored **500+ learners** across **PTI**, **GMA**, and the [National Information Technology Development Agency](https://nitda.gov.ng) **3MTT cybersecurity programme** through practical labs, awareness campaigns, and hands-on defence exercises.
+- 🎓 Trained and mentored **500+ learners** through **PTI**, **GMA**, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng/) **3MTT cybersecurity programme**, delivering practical cybersecurity training and hands-on infrastructure labs.
 
-- Served in **Nigeria’s 2023 General Election Cybersecurity Situation Room**, supporting real-time cyber threat monitoring, incident response coordination, and the protection of critical election technologies.
+- 🗳️ Coordinated election cybersecurity operations across **192 polling units and 10 registration areas** during Nigeria’s 2023 General Elections, connecting field teams to the Situation Room and training **200+ polling personnel** on secure electoral technology.
 
-- **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
+- 📝 Served as an **Expert Cybersecurity Advisor** to Unicus Campus, designing its core training curriculum around real-world threat scenarios and practical competencies. The programme has trained **50+ emerging professionals** to date.
 
-- Delivered hands-on **cybersecurity training** under **NITDA’s 3MTT Programme**, enabling **~20% of participants** to achieve internationally recognised certifications **(ISC2 CC, CompTIA Security+)**, with others progressing into internships and entry-level cybersecurity roles.
+- ☁️ **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
 
-- **Supervised practical cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng) (GMA) while leading cybersecurity awareness initiatives that strengthened secure practices among students and staff.
+- 🛡️ Delivered hands-on cybersecurity training through [NITDA’s 3MTT Programme](https://3mtt.nitda.gov.ng/), with **~20% of participants achieving career-development outcomes**, including earning ISC2 Certified in Cybersecurity (CC) or CompTIA Security+ certifications, securing internships, or progressing into entry-level cybersecurity roles.
 
-- Served as the **Inaugural HND President** of the [Nigeria Association of Computing Students (NACOS)](https://nacos.org.ng/) PTI Chapter, establishing governance structures and leading student initiatives in cybersecurity and emerging technologies.
+- 🔐 **Supervised cybersecurity and networking projects** at [Global Maritime Academy](https://gma.edu.ng/), strengthening students’ practical technical skills.
+
+- 👨‍💻 Served as the **Inaugural HND President** of the [Nigeria Association of Computing Students (NACOS)](https://nacos.org.ng/) PTI Chapter, establishing governance structures and leading student initiatives in cybersecurity and emerging technologies.
 
 ---
 
