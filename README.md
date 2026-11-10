@@ -42,7 +42,7 @@ As an **IT/OT Security Operations Officer at Sinic Engineering Limited (SROL)**,
 
 My experience spans **industrial cybersecurity, election cybersecurity, detection engineering, cloud security, and Agentic AI security**, including designing and securing agentic AI workflows using Amazon Bedrock AgentCore, AWS Cognito, and the Model Context Protocol (MCP).
 
-I have trained and mentored **500+ learners** in cybersecurity, network security, secure coding, and computer networking through educational institutions and national workforce-development initiatives, including the **NITDA 3 Million Technical Talent (3MTT) Programme**, **PTI** and **Global Maritime Academy.**
+I have trained and mentored **1000+ learners** in cybersecurity, network security, secure coding, and computer networking through educational institutions and national workforce-development initiatives, including the **NITDA 3 Million Technical Talent (3MTT) Programme**, **PTI** and **Global Maritime Academy.**
 
 I am committed to strengthening **critical infrastructure security**, advancing the secure adoption of emerging technologies, and developing the next generation of cybersecurity talent.
 
@@ -117,7 +117,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - ☁️ **Led the technical preparation and operational readiness** of GMA's Networking & Cloud Computing Laboratory, contributing to [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
 
-- 🎓 Trained and mentored **500+ learners** through **PTI**, **GMA**, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng/) **3MTT cybersecurity programme**, delivering practical cybersecurity training and hands-on infrastructure labs.
+- 🎓 Trained and mentored **1000+ learners** through **PTI**, **GMA**, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng/) **3MTT cybersecurity programme**, delivering practical cybersecurity training and hands-on infrastructure labs.
 
 - 🛡️ Delivered hands-on cybersecurity training through [NITDA’s 3MTT Programme](https://3mtt.nitda.gov.ng/), with **~20% of participants achieving career-development outcomes**, including earning ISC2 Certified in Cybersecurity (CC) or CompTIA Security+ certifications, securing internships, or progressing into entry-level cybersecurity roles.
 
