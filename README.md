@@ -125,10 +125,6 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 ---
 
-### 📊 Highlights & Achievements
-
----
-
 ### 📸 Leadership in Action
 
 **Leadership experience spanning institutional, national, and professional cybersecurity initiatives, driving capacity development and digital resilience.**
