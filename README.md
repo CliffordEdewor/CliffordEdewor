@@ -117,7 +117,7 @@ A Cisco Packet Tracer project demonstrating how hubs broadcast all traffic and h
 
 - ☁️ **Led the technical preparation, live inspection presentation, and operational readiness** of GMA's Networking and Cloud Computing Laboratory, contributing to [National Board for Technical Education (NBTE)](https://web.nbte.gov.ng/) approval for the **Academy's first HND programmes**.
 
-- 🎓 Trained and mentored **1,000+ learners** through PTI, GMA, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng) 3MTT cybersecurity programme, delivering hands-on infrastructure labs with **~20% of 3MTT participants** earning ISC2 CC or CompTIA Security+ certifications, securing internships, or landing entry-level roles. [NITDA’s 3MTT Programme](https://3mtt.nitda.gov.ng/)
+- 🎓 Trained and mentored **1,000+ learners** through PTI, GMA, and the [National Information Technology Development Agency (NITDA)](https://nitda.gov.ng) 3MTT cybersecurity programme, delivering hands-on infrastructure labs with **~20%** of [3MTT](https://3mtt.nitda.gov.ng/) participants earning ISC2 CC or CompTIA Security+ certifications, securing internships, or landing entry-level roles.
 
 - 🔐 **Supervised applied cybersecurity and networking capstone projects** at [Global Maritime Academy](https://gma.edu.ng), strengthening students' practical technical skills.
 
